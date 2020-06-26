@@ -1,0 +1,7 @@
+spring:
+  application.name: password-management
+  cloud:
+    config:
+      enabled: false
+  zipkin:
+    enabled: false

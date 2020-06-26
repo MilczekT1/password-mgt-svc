@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "familyId": 1,
+  "firstName": "testFirstName",
+  "lastName": "testLastName",
+  "email": "test@email.com",
+  "phoneNumber": "123123123",
+  "role": "USER",
+  "enabled": true
+}

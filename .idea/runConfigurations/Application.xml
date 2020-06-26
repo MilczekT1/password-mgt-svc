@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="password-management" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.konradboniecki.Application" />
+    <option name="VM_PARAMETERS" value="-Dspring.profiles.active=default,config_server_local -Dbudget.baseUrl=http://konradboniecki.com.pl" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
